@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[SpectrumKid]]></title>
+        <description><![CDATA[SpectrumKid]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Tue, 24 May 2016 13:56:36 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Help Your Child Cope Better - Today!]]></title>
+            <description><![CDATA[<article><h1>Help Your Child Cope Better - Today!</h1><p>Has your child been diagnosed with ADHD/ADD? </p></article>]]></description>
+            <link>undefinedhelp-your-child-cope-better-today/index.html</link>
+            <guid isPermaLink="false">7bb1f3db-746c-4492-8323-0d896fd62d7d</guid>
+            <pubDate>Tue, 24 May 2016 13:56:35 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
