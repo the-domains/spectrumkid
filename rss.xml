@@ -2,16 +2,16 @@
     <channel>
         <title><![CDATA[SpectrumKid]]></title>
         <description><![CDATA[SpectrumKid]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/spectrumkid/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 24 May 2016 13:56:36 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Tue, 24 May 2016 13:58:07 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/spectrumkid/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Help Your Child Cope Better - Today!]]></title>
             <description><![CDATA[<article><h1>Help Your Child Cope Better - Today!</h1><p>Has your child been diagnosed with ADHD/ADD? </p></article>]]></description>
-            <link>undefinedhelp-your-child-cope-better-today/index.html</link>
+            <link>https://thegrid.ai/spectrumkid/help-your-child-cope-better-today/index.html</link>
             <guid isPermaLink="false">7bb1f3db-746c-4492-8323-0d896fd62d7d</guid>
-            <pubDate>Tue, 24 May 2016 13:56:35 GMT</pubDate>
+            <pubDate>Tue, 24 May 2016 13:58:06 GMT</pubDate>
         </item>
     </channel>
 </rss>
