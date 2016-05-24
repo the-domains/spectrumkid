@@ -5,14 +5,14 @@ inNav: false
 inLanguage: null
 keywords: []
 description: 'Has your child been diagnosed with ADHD/ADD? '
-datePublished: '2016-05-24T13:56:35.527Z'
-dateModified: '2016-05-24T13:55:48.653Z'
-authors: []
-publisher: null
+datePublished: '2016-05-24T13:58:06.732Z'
+dateModified: '2016-05-24T13:56:42.476Z'
 title: 'Help Your Child Cope Better - Today!'
 author: []
-starred: false
 sourcePath: _posts/2016-05-24-help-your-child-cope-better-today.md
+authors: []
+publisher: null
+starred: false
 url: help-your-child-cope-better-today/index.html
 _type: Article
 
